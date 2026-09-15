@@ -9,7 +9,7 @@ The project models the core operational data of an e-commerce platform across th
   Products (Dimension): Manages catalog inventory, pricing, and product categorization across 20 records.
   Orders (Fact): Captures 150 transaction logs detailing customer purchases, order dates, and quantities.
 
----
+
 
 Key Skills Applied
 
